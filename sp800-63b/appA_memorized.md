@@ -4,7 +4,7 @@
 
 *This appendix is informative.*
 
-Throughout this appendix, the word "password" is used for ease of discussion. Where used, it should be interpreted to include passphrases and PINs as well as passwords.   
+Throughout this appendix, the word "password" is used for ease of discussion. Where used, it should be interpreted to include passphrases and PINs as well as passwords.      
 
 ### A.1 Introduction
 
